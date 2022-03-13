@@ -7,5 +7,14 @@ A
 B
 B
 
+`:wq
+A:`
+A
+A
+A
+A
 B
+B
+
+I have made some changes in my codeB
 I want to learn Devops and I want to see myself in Google or Facebook and if it's not possible then I want see myself in such compamny which like that's.:
